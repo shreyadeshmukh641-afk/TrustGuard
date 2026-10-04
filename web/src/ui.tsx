@@ -87,6 +87,6 @@ export default function App() {
         <div className="side-note"><div className="note-icon"><TriangleAlert size={15}/></div><p>Good instincts matter. A low score doesn’t verify who sent a message.</p></div>
       </aside>
     </main>
-    <footer className="footer"><a className="footer-brand" href="#top"><Shield size={14}/> trustguard<span>.</span></a><span>Made for the moment before you tap.</span><span className="footer-links"><a href="https://github.com" target="_blank" rel="noreferrer">Open source <ArrowUpRight size={11}/></a><i/> <a href="https://github.com" target="_blank" rel="noreferrer">MIT license <ArrowUpRight size={11}/></a></span></footer>
+    <footer className="footer"><a className="footer-brand" href="#top"><Shield size={14}/> trustguard<span>.</span></a><span>Made for the moment before you tap.</span><span className="footer-links"><a href="https://github.com/shreyadeshmukh641-afk/TrustGuard" target="_blank" rel="noreferrer">Open source <ArrowUpRight size={11}/></a><i/> <a href="https://github.com/shreyadeshmukh641-afk/TrustGuard/blob/master/LICENSE" target="_blank" rel="noreferrer">MIT license <ArrowUpRight size={11}/></a></span></footer>
   </div>
 }

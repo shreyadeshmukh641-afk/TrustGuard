@@ -9,7 +9,7 @@ TrustGuard checks suspicious SMS, WhatsApp and email text, explains the warning 
 3. Run in two terminals: `py -m uvicorn api.main:app --reload --port 8000` and `npm --prefix web run dev`.
 4. Optional AI: install Ollama and run `ollama pull qwen2.5:7b`; the rule engine works when Ollama is offline.
 
-Open the Vite URL; API docs are at `http://localhost:8000/docs`. Add a screenshot at `docs/screenshot.png` before publishing.
+Open the Vite URL; API docs are at `http://localhost:8000/docs`.
 
 ## Credits and licences
 
